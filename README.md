@@ -40,7 +40,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 ### 🛠️ **DevOps & Infrastructure**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
   <img src="./icons/Powershell-Dark.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/GitLab-Dark.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Git.svg" alt="TypeScript" width="40" height="40" />
@@ -52,7 +52,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/CMake-Dark.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/VisualStudio-Light.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" />
+  <img src="./icons/Github-Light.svg" alt="icon" width="61" height="61" />
   <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
@@ -64,7 +64,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/ScikitLearn-Dark.svg" alt="Scikit-Learn" width="40" height="40" />
   <img src="./icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="61" height="61" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
 </div>
 
 ### **I Want To Learn**
