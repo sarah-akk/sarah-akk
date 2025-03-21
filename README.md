@@ -34,7 +34,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
   <img src="./icons/swagger.png" alt="Laravel" width="40" height="40" />
   <img src="./icons/Firebase-Light.svg" alt="Firebase" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="61" height="61" />
-  <img src="./icons/Postman.svg" alt="REST API" width="61" height="61" />
+  <img src="./icons/Postman.svg" alt="REST API" width="61" height="40" width="40"/>
 </div>
 
 ### 🛠️ **DevOps & Infrastructure**
