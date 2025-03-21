@@ -6,7 +6,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 ---
 
 - 🎨 Passionate about: Art, coding, reading, and learning new things
-- 🚀 **Currently working as:** Front Backend Developer
+- 🚀 **Currently working as:** Web Developer
 - 🦄  **Currently Learning:** Nextjs & UI/UX
 - 🤖 **College specialty:** Artificial Intelligence
 - **I'm looking to collaborate on business ideas  🦋**
