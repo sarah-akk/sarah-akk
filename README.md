@@ -5,15 +5,15 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 
 ---
 
-- 🎨 Passionate about: Art, coding, reading, and learning new things
+- ⭐ Passionate about: Art, coding, reading, and learning new things
 - 🚀 **Currently working as:** Web Developer
 - 🦄  **Currently Learning:** Nextjs & UI/UX
 - 🤖 **College specialty:** Artificial Intelligence
-- **I'm looking to collaborate on business ideas  🦋**
+- **I'm looking to collaborate on new business ideas  🦋**
 
 ---
 
-### 🌈 **Front End Development**
+### 🎨 **Front End Development**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/HTML.svg" alt="HTML" width="40" height="40" />
@@ -83,5 +83,3 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 ---
 
 ---
-
-⭐ **Thanks for visiting!** ⭐3
