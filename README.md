@@ -42,36 +42,39 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
-  <img src="./icons/Powershell-Dark.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/Github-Light.svg" alt="icon" width="40" height="40" />
-  <img src="./icons/GitLab-Dark.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/Git.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Powershell-Dark.svg" alt="Powershell" width="40" height="40" />
+  <img src="./icons/Github-Light.svg" alt="Github" width="40" height="40" />
+  <img src="./icons/GitLab-Dark.svg" alt="GitLab" width="40" height="40" />
+  <img src="./icons/Git.svg" alt="Git" width="40" height="40" />
   <img src="./icons/StackOverflow-Light.svg" alt="StackOverflow-Light" width="40" height="40" />
 </div>
 
 ### 🔧 **Others**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="./icons/CMake-Dark.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/VisualStudio-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/CMake-Dark.svg" alt="CMake" width="40" height="40" />
+  <img src="./icons/VisualStudio-Light.svg" alt="VisualStudio" width="40" height="40" />
   <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
-  <img src="./icons/Notion-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Notion-Light.svg" alt="Notion" width="40" height="40" />
+  <img src="./icons/figma.png" alt="figma" width="40" height="40" />
 </div>
 
 ### 🤖 **AI/ML**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="./icons/ScikitLearn-Dark.svg" alt="Scikit-Learn" width="40" height="40" />
-  <img src="./icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
-  <img src="./icons/tensorflow.png" alt="Anaconda" width="40" height="40" />
-  <img src="./icons/keras.png" alt="Anaconda" width="40" height="40" />
-  <img src="./icons/ollama.png" alt="Anaconda" width="40" height="40" />
-  <img src="./icons/langchain.jpeg" alt="Anaconda" width="40" height="40" />
-  <img src="./icons/pandasai.png" alt="Anaconda" width="40" height="40" />
-  <img src="./icons/pytorch.png" alt="Anaconda" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+  <img src="./icons/ScikitLearn-Dark.svg" alt="Scikit-Learn" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/tensorflow.png" alt="tensorflow" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/keras.png" alt="keras" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/ollama.png" alt="ollama" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/langchain.jpeg" alt="langchain" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/pandasai.png" alt="pandasai" width="40" height="40" style="border-radius: 20%;" />
+  <img src="./icons/pytorch.png" alt="pytorch" width="40" height="40" style="border-radius: 20%;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" style="border-radius: 20%;" />
+</div>
+
 </div>
 
 ### **I Want To Learn**
