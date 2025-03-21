@@ -71,7 +71,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
   <img src="./icons/ollama.png" alt="ollama" width="40" height="40" style="border-radius: 50%;" />
   <img src="./icons/langchain.jpeg" alt="langchain" width="40" height="40" style="border-radius: 50%;" />
   <img src="./icons/pandasai.png" alt="pandasai" width="40" height="40" style="border-radius: 50%;" />
-  <img src="./icons/pytorch.png" alt="pytorch" width="40" height="40" style="border-radius: 50%;" />
+  <img src="./icons/pytorch.png" alt="pytorch" width="40" height="40" style="border-radius: 20px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" style="border-radius: 20px;" />
 </div>
 
