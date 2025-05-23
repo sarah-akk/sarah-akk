@@ -7,9 +7,9 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 
 - ⭐ Passionate about: Art, coding, reading, and learning new things
 - 🚀 **Currently working as:** Web Developer
-- 🦄  **Currently Learning:** Nextjs & UI/UX
+- 🦄 **Currently Learning:** Nextjs & UI/UX
 - 🤖 **College specialty:** Artificial Intelligence
-- **I'm looking to collaborate on new business ideas  🦋**
+- **I'm looking to collaborate on new business ideas 🦋**
 
 ---
 
@@ -29,6 +29,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 </div>
 
 ### 💻 **Back End Development**
+
 <div align="left" style="display: flex; flex-wrap: nowrap; gap: 8px; align-items: center;">
   <img src="./icons/PHP-Dark.svg" alt="PHP" width="40" height="40" />
   <img src="./icons/Laravel-Light.svg" alt="Laravel" width="40" height="40" />
@@ -57,6 +58,8 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
   <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
+  <img src="./icons/CS.svg" alt="CS" width="40" height="40" />
+  <img src="./icons/Unity-Light.svg" alt="unity" width="40" height="40" />
   <img src="./icons/Notion-Light.svg" alt="Notion" width="40" height="40" />
   <img src="./icons/figma.png" alt="figma" width="40" height="40" />
 </div>
@@ -74,7 +77,6 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
   <img src="./icons/pytorch.png" alt="pytorch" width="40" height="40" style="border-radius: 20px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" style="border-radius: 20px;" />
 </div>
-
 
 </div>
 
