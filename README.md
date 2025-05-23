@@ -59,6 +59,7 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="51" height="51" />
   <img src="./icons/Notion-Light.svg" alt="Notion" width="40" height="40" />
   <img src="./icons/CS.svg" alt="cs" width="40" height="40" />
+    <img src="./icons/Unity-Light.svg" alt="Unity" width="40" height="40" />
   <img src="./icons/figma.png" alt="figma" width="40" height="40" />
 </div>
 
