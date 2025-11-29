@@ -20,8 +20,15 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
   <img src="./icons/CSS.svg" alt="CSS" width="40" height="40" />
   <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40" />
   <img src="./icons/react.png" alt="react" width="40" height="40" />
+  <img src="./icons/nextjs.png" alt="nextjs" width="40" height="40" />
+  <img src="./icons/astro.png" alt="react" width="40" height="40" />
+  <img src="./icons/alpine.png" alt="react" width="40" height="40" />
+  <img src="./icons/strapi.png" alt="react" width="40" height="40" />
   <img src="./icons/Vite-Light.svg" alt="vite" width="40" height="40" />
   <img src="./icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40" />
+  <img src="./icons/bootstrap.jpg" alt="tailwind" width="40" height="40" />
+  <img src="./icons/inertia.png" alt="tailwind" width="40" height="40" />
+  <img src="./icons/filament.png" alt="tailwind" width="40" height="40" />
   <img src="./icons/Sass.svg" alt="sass" width="40" height="40" />
   <img src="./icons/ThreeJS-Light.svg" alt="threejs" width="40" height="40" />
   <img src="./icons/Npm-Light.svg" alt="npm" width="40" height="40" />
@@ -79,14 +86,13 @@ I'm a Frontend Developer who loves turning ideas into interactive, user-friendly
 
 </div>
 
-### **I Want To Learn**
+<!-- ### **I Want To Learn**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="./icons/NodeJS-Dark.svg" alt="nodjs" width="40" height="40" />
-<img src="./icons/nextjs.png" alt="nextjs" width="40" height="40" />
 <img src="./icons/ExpressJS-Light.svg" alt="expressjs" width="40" height="40" />
 <img src="./icons/MongoDB.svg" alt="mongodb" width="40" height="40" />
-</div>
+</div> -->
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 5px;">
 
